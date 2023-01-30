@@ -277,8 +277,9 @@ button:active{
         font-size: 16px;
     }
     .feats img{
-        width: 12.5em;
-        height: 12.5em;
+/*         width: 12.5em;
+        height: 12.5em; */
+        flex-shrink: .5;
     }
     .services{
         padding: 2em 0;
